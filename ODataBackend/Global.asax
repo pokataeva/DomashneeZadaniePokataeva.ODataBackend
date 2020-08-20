@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="IIS.Domashnee_zadanie_Pokataeva.Global" Language="C#" %>
